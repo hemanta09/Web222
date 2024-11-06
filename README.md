@@ -76,5 +76,5 @@ No additional dependencies are required for this project.
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the my License.
 
