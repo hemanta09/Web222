@@ -1,5 +1,6 @@
 # Web222- Assignment 4 
 
+
 # Personal Portfolio Website
 
 This is a personal portfolio website that showcases my projects, skills, and contact information. The site includes a mobile-friendly navigation, smooth scrolling, a responsive project gallery, and a contact form with client-side validation.
@@ -32,7 +33,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   https://github.com/hemanta09/Web222.git
+   git clone https://github.com/hemanta09/Web222.git
    ```
 2. Open the project folder:
    ```bash
@@ -60,8 +61,10 @@ No additional dependencies are required for this project.
 ## Project Structure
 ```plaintext
 .
-├── index.html          # Main HTML file with styles, and JavaScript with navigation, form validation, and project gallery functions
-├── inmgs               # Folder contating all the images used in the project.
+├── index.html          # Main HTML file
+├── styles.css          # Main stylesheet
+├── script.js           # JavaScript file with navigation, form validation, and project gallery functions
+├── imgs                # Folder containing all the images used in the project.
 └── README.md           # Documentation file
 ```
 
@@ -75,5 +78,6 @@ No additional dependencies are required for this project.
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
 
 ## License
-This project is licensed under the my License.
+This project is licensed under my License.
+
 
