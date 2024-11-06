@@ -5,7 +5,6 @@
 This is a personal portfolio website that showcases my projects, skills, and contact information. The site includes a mobile-friendly navigation, smooth scrolling, a responsive project gallery, and a contact form with client-side validation.
 
 ## Table of Contents
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
@@ -14,8 +13,6 @@ This is a personal portfolio website that showcases my projects, skills, and con
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-You can view the live demo of this project [here](#).
 
 ## Features
 - **Responsive Design**: Works on mobile, tablet, and desktop screens.
