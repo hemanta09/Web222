@@ -32,7 +32,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/portfolio-website.git](https://github.com/hemanta09/Web222/blob/main/portfolio-website.html)
+   https://github.com/hemanta09/Web222.git
    ```
 2. Open the project folder:
    ```bash
@@ -61,6 +61,7 @@ No additional dependencies are required for this project.
 ```plaintext
 .
 ├── index.html          # Main HTML file with styles, and JavaScript with navigation, form validation, and project gallery functions
+├── inmgs               # Folder contating all the images used in the project.
 └── README.md           # Documentation file
 ```
 
