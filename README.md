@@ -1,4 +1,5 @@
 # Web222- Assignment 4 
+
 # Personal Portfolio Website
 
 This is a personal portfolio website that showcases my projects, skills, and contact information. The site includes a mobile-friendly navigation, smooth scrolling, a responsive project gallery, and a contact form with client-side validation.
@@ -13,7 +14,8 @@ This is a personal portfolio website that showcases my projects, skills, and con
 - [Contributing](#contributing)
 - [License](#license)
 
-
+## Demo
+You can view the live demo of this project [here](#).
 
 ## Features
 - **Responsive Design**: Works on mobile, tablet, and desktop screens.
@@ -33,7 +35,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hemanta09/Web222/blob/main/portfolio-website.html
+   git clone https://github.com/your-username/portfolio-website.git
    ```
 2. Open the project folder:
    ```bash
@@ -78,3 +80,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License
 This project is licensed under the MIT License.
+
