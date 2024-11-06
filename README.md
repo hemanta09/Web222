@@ -60,9 +60,7 @@ No additional dependencies are required for this project.
 ## Project Structure
 ```plaintext
 .
-├── index.html          # Main HTML file
-├── styles.css          # Main stylesheet
-├── script.js           # JavaScript file with navigation, form validation, and project gallery functions
+├── index.html          # Main HTML file with styles, and JavaScript with navigation, form validation, and project gallery functions
 └── README.md           # Documentation file
 ```
 
